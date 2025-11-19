@@ -58,9 +58,11 @@ RegisterNumber:25015729*/
 
 **RTL Schematic**
 <img width="1728" height="914" alt="Screenshot 2025-11-18 214912" src="https://github.com/user-attachments/assets/ec08017d-d57b-4de6-9e48-dde116399aa3" />
+![Uploading Screenshot 2025-11-18 224738.png…]()
 
 **Output/TIMING Waveform**
 <img width="1692" height="192" alt="Screenshot 2025-11-18 215137" src="https://github.com/user-attachments/assets/8d27b0de-d2ca-49ec-bb91-e81bb1dd95f8" />
+![Uploading Screenshot 2025-11-18 224915.png…]()
 
 **Result:**
 Thus, design a half adder and half subtractor circuit and verified its truth table in Quartus using Verilog programming.
